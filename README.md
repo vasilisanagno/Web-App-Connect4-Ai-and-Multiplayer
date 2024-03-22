@@ -55,7 +55,7 @@ The project has the following backend folder structure:
   - `config`: Folder that configurates the connection of the database with the server.
   - `api`: Folder that contains files for the routes and communication with the database.
     - `controllers`: Functions that are called according to the routes.
-    - `helpers`: Functions that are useful some of them for the sockets and the game board.
+    - `utils`: Functions that are useful some of them for the sockets and the game board.
     - `models`: Defines Sequelize models and establishes database associations.
     - `routes`: Defines API routes that exists in the server.
     - `services`: Functions that communicates with the database and makes queries.
@@ -70,7 +70,7 @@ The project has the following frontend folder structure:
     - `components`: React components(Javascriopt files) for UI with the CSS files.
       - `hooks`: In some components there is this folder that contains custom hooks for handling the ai and the multiplayer mode.
     - `context`: Hook that have variables that are useful in many components.
-    - `helpers`: Helping functions for the UI.
+    - `utils`: Helping functions for the UI.
     - `pages`: Pages of the app.
     - `routes`: All different routes across the pages of the app.
     - `style`: CSS style that is general(for all pages) or for one page.
