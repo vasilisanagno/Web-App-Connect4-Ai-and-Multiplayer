@@ -1,6 +1,6 @@
 # Web App Connect4 Ai and Multiplayer
 
-This web application allows users to play Connect4 against AI or other players in real-time multiplayer mode using React for frontend, Node.js for backend and PostgreSQL. The application features user authentication, account management, game statistics, and more.
+This web application allows users to play Connect4 against AI or other players in real-time multiplayer mode using React(javascript) for frontend, with a Node.js server as its backend, communicating with a PostgreSQL database. The application features user authentication, account management, game statistics, and more.
 
 ## Table of Contents
 - [Features](#features)
