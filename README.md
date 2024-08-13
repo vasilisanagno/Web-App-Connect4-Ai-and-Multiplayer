@@ -18,7 +18,7 @@ This web application allows users to play Connect4 against AI or other players i
 - [Multiplayer Mode](#multiplayer-mode)
 - [Frontend Routing](#frontend-routing)
 - [Summary](#summary)
-- [Screenshots From The Routes Of The App](#screenshots-from-the-routes-of-the-app)
+- [Screenshots From The App](#screenshots-from--the-app)
 
 ## Features
 
@@ -123,7 +123,7 @@ The routing in the application is managed by the `App.js` file. It handles navig
 
 Initially there is a login form and a signup form and the player will be able to connect or register with his data in the main part of the website (in registration there is verification for the email where a link is sent to the email of the user to be verified his account). There are two buttons, one for connect4 with ai and the other for connect4 with multiplayer. If you click on the player's name, 2 options will appear (sign out, delete account) or 3 options, 1 more option (change mode, where it exits the ai mode or the multiplayer mode and returns to the main part of the website). There is a database in the backend development where users are stored, the information of the games they have played and more (such as sessions). Finally there is statistics and help in both modes, and in the multiplayer there is also chat between the 2 players playing.
 
-## Screenshots From The Routes Of The App
+## Screenshots From The App
 
 Login Route:
 ![Screenshot](readmeImages/LoginRoute.png)
@@ -133,6 +133,10 @@ Signup Route:
 
 Email Verification Route:
 ![Screenshot](readmeImages/VerificationRoute.png)
+
+<div align="center">
+  <img src="readmeImages/VerificationEmail.png" width="600" height="600"/>
+</div>
 
 Home/Main Route:
 ![Screenshot](readmeImages/HomeRoute.png)
