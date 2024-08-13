@@ -144,5 +144,30 @@ Home/Main Route:
 Ai Route:
 ![Screenshot](readmeImages/AIRoute.png)
 
+<div align="center">
+  <img src="readmeImages/AI_1.png" width="600" height="400"/>
+</div>
+<div align="center">
+  <img src="readmeImages/AI_2.png" width="600" height="400"/>
+</div>
+<div align="center">
+  <img src="readmeImages/AI_3.png" width="600" height="400"/>
+</div>
+<div align="center">
+  <img src="readmeImages/AI_4.png" width="600" height="400"/>
+</div>
+<div align="center">
+  <img src="readmeImages/AI_5.png" width="600" height="400"/>
+</div>
+<div align="center">
+  <img src="readmeImages/AI_6.png" width="600" height="400"/>
+</div>
+<div align="center">
+  <img src="readmeImages/AI_7.png" width="600" height="400"/>
+</div>
+<div align="center">
+  <img src="readmeImages/AI_8.png" width="600" height="400"/>
+</div>
+
 Multiplayer Route:
 ![Screenshot](readmeImages/MultiplayerRoute.png)
