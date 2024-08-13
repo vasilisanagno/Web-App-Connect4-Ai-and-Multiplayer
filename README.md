@@ -135,7 +135,7 @@ Email Verification Route:
 ![Screenshot](readmeImages/VerificationRoute.png)
 
 <div align="center">
-  <img src="readmeImages/VerificationEmail.png" width="600" height="400"/>
+  <img src="readmeImages/VerificationEmail.png" width="600" height="300"/>
 </div>
 
 Home/Main Route:
