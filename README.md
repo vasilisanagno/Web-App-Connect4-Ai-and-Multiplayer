@@ -135,7 +135,7 @@ Email Verification Route:
 ![Screenshot](readmeImages/VerificationRoute.png)
 
 <div align="center">
-  <img src="readmeImages/VerificationEmail.png" width="600" height="350"/>
+  <img src="readmeImages/VerificationEmail.png"/>
 </div>
 
 Home/Main Route:
@@ -145,28 +145,28 @@ Ai Route:
 ![Screenshot](readmeImages/AIRoute.png)
 
 <div align="center">
-  <img src="readmeImages/AI_1.png" width="600" height="400"/>
+  <img src="readmeImages/AI_1.png"/>
 </div>
 <div align="center">
-  <img src="readmeImages/AI_2.png" width="600" height="400"/>
+  <img src="readmeImages/AI_2.png"/>
 </div>
 <div align="center">
-  <img src="readmeImages/AI_3.png" width="600" height="400"/>
+  <img src="readmeImages/AI_3.png"/>
 </div>
 <div align="center">
-  <img src="readmeImages/AI_4.png" width="600" height="400"/>
+  <img src="readmeImages/AI_4.png"/>
 </div>
 <div align="center">
-  <img src="readmeImages/AI_5.png" width="600" height="400"/>
+  <img src="readmeImages/AI_5.png"/>
 </div>
 <div align="center">
-  <img src="readmeImages/AI_6.png" width="600" height="400"/>
+  <img src="readmeImages/AI_6.png"/>
 </div>
 <div align="center">
-  <img src="readmeImages/AI_7.png" width="600" height="400"/>
+  <img src="readmeImages/AI_7.png"/>
 </div>
 <div align="center">
-  <img src="readmeImages/AI_8.png" width="600" height="400"/>
+  <img src="readmeImages/AI_8.png"/>
 </div>
 
 Multiplayer Route:
