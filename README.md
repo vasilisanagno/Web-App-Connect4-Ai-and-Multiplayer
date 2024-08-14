@@ -19,6 +19,14 @@ This web application allows users to play Connect4 against AI or other players i
 - [Frontend Routing](#frontend-routing)
 - [Summary](#summary)
 - [Screenshots From The App](#screenshots-from--the-app)
+  -[Login Route](#login-route)
+  -[Signup Route](#signup-route)
+  -[Email Verification Route](#email-verification-route)
+  -[Home/Main Route](#home/main-route)
+  -[AI Route](#ai-route)
+  -[Multiplayer Route](#multiplayer-route)
+    -[Game winner without a player's time running out](#game-winner-without-a-player's-time-running-out)
+    -[Game winner having run out a player's time](#game-winner-having-run-out-a-player's-time)
 
 ## Features
 
@@ -125,23 +133,23 @@ Initially there is a login form and a signup form and the player will be able to
 
 ## Screenshots From The App
 
-### Login Route:
+### Login Route
 ![Screenshot](readmeImages/LoginRoute.png)
 
-### Signup Route:
+### Signup Route
 ![Screenshot](readmeImages/SignupRoute.png)
 
-### Email Verification Route:
+### Email Verification Route
 ![Screenshot](readmeImages/VerificationRoute.png)
 
 <div align="center">
   <img src="readmeImages/VerificationEmail.png"/>
 </div>
 
-### Home/Main Route:
+### Home/Main Route
 ![Screenshot](readmeImages/HomeRoute.png)
 
-### Ai Route:
+### AI Route
 ![Screenshot](readmeImages/AIRoute.png)
 
 <div align="center">
@@ -169,7 +177,7 @@ Initially there is a login form and a signup form and the player will be able to
   <img src="readmeImages/AI_8.png"/>
 </div>
 
-### Multiplayer Route:
+### Multiplayer Route
 ![Screenshot](readmeImages/MultiplayerRoute.png)
 
 <div align="center">
@@ -179,7 +187,7 @@ Initially there is a login form and a signup form and the player will be able to
   <img src="readmeImages/Multiplayer_2.png"/>
 </div>
 
-#### Game winner without a player's time running out:
+#### Game winner without a player's time running out
 
 <div align="center">
   <img src="readmeImages/Multiplayer_3.png"/>
@@ -197,7 +205,7 @@ Initially there is a login form and a signup form and the player will be able to
   <img src="readmeImages/Multiplayer_7.png"/>
 </div>
 
-#### Game winner having run out a player's time:
+#### Game winner having run out a player's time
 
 <div align="center">
   <img src="readmeImages/Multiplayer_8.png"/>
