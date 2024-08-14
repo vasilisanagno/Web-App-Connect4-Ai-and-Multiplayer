@@ -3,6 +3,7 @@
 This web application allows users to play Connect4 against AI or other players in real-time multiplayer mode. The application features user authentication, account management, game statistics, and more.
 
 ## Table of Contents
+
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
