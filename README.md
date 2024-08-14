@@ -20,12 +20,12 @@ This web application allows users to play Connect4 against AI or other players i
 - [Frontend Routing](#frontend-routing)
 - [Summary](#summary)
 - [Screenshots From The App](#screenshots-from-the-app)
-  -[Login Route](#login-route)
-  -[Signup Route](#signup-route)
-  -[Email Verification Route](#email-verification-route)
-  -[Home Route](#home-route)
-  -[AI Route](#ai-route)
-  -[Multiplayer Route](#multiplayer-route)
+  - [Login Route](#login-route)
+  - [Signup Route](#signup-route)
+  - [Email Verification Route](#email-verification-route)
+  - [Home Route](#home-route)
+  - [AI Route](#ai-route)
+  - [Multiplayer Route](#multiplayer-route)
 
 ## Features
 
