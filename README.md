@@ -22,11 +22,11 @@ This web application allows users to play Connect4 against AI or other players i
   -[Login Route](#login-route)
   -[Signup Route](#signup-route)
   -[Email Verification Route](#email-verification-route)
-  -[Home/Main Route](#home/main-route)
+  -[Home/Main Route](#home-main-route)
   -[AI Route](#ai-route)
   -[Multiplayer Route](#multiplayer-route)
-    -[Game winner without a player's time running out](#game-winner-without-a-player's-time-running-out)
-    -[Game winner having run out a player's time](#game-winner-having-run-out-a-player's-time)
+    -[Game winner without a player's time running out](#game-winner-without-running-out-of-time)
+    -[Game winner having run out a player's time](#game-winner-having-run-out-of-time)
 
 ## Features
 
