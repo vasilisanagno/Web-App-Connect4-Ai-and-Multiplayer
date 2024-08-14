@@ -18,7 +18,7 @@ This web application allows users to play Connect4 against AI or other players i
 - [Multiplayer Mode](#multiplayer-mode)
 - [Frontend Routing](#frontend-routing)
 - [Summary](#summary)
-- [Screenshots From The App](#screenshots-from--the-app)
+- [Screenshots From The App](#screenshots-from-the-app)
   -[Login Route](#login-route)
   -[Signup Route](#signup-route)
   -[Email Verification Route](#email-verification-route)
