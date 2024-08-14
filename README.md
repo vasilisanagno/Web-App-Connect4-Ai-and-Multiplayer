@@ -178,10 +178,10 @@ Multiplayer Route:
 <div align="center">
   <img src="readmeImages/Multiplayer_2.png"/>
 </div>
+Game winner without a player's time running out 
 <div align="center">
   <img src="readmeImages/Multiplayer_3.png"/>
 </div>
-## Game winner without a player's time running out 
 <div align="center">
   <img src="readmeImages/Multiplayer_4.png"/>
 </div>
