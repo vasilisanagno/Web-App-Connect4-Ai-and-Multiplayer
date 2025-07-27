@@ -1,4 +1,4 @@
-# Web App Connect4 Ai and Multiplayer
+# Web App Connect4 AI and Multiplayer
 
 This web application allows users to play Connect4 against AI or other players in real-time multiplayer mode. The application features user authentication, account management, game statistics, and more.
 
@@ -48,7 +48,7 @@ This web application allows users to play Connect4 against AI or other players i
 
 To get started with the Connect4 Multiplayer Web Application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/vasilisanagno/Web-App-Connect4-Ai-and-Multiplayer.git`
+1. Clone the repository: `git clone https://github.com/vasilisanagno/Web-App-Connect4-AI-and-Multiplayer.git`
 2. Install dependencies: `npm install`
 3. Configure your PostgreSQL database and update the database configuration accordingly.
 4. Run the application: `npm start`
